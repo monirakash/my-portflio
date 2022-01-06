@@ -14,8 +14,7 @@ strong{
 }
 #side-line{
     border-left: 5px solid tomato;
-    border-radius: 2px;
-    
+    border-radius: 2px
 }
 section{
     display: flex;
@@ -115,4 +114,31 @@ span{
 }
 #lastpic{
     border-radius: 15px;
+}
+
+.log-in{
+    text-align: center;
+    padding: 0px;
+    border: 6px solid rgb(24, 23, 23);
+    width:260px ;
+    border-radius:13px ;
+    box-shadow: 5px 4px 4px rgb(235, 90, 6);
+background-color: rgb(94, 92, 92);
+}
+#input{
+    border: 1px solid rgb(110, 60, 60);
+    border-radius:17px ;
+    font-weight: 900;
+    height: 30px;
+    width:220px ;
+    color: rgb(30, 43, 32);
+    background-color: rgb(7, 0, 0);
+    padding: 2px;
+
+}
+.log-in h1{
+    color: red;
+}
+#link{
+    text-decoration:none ;
 }
