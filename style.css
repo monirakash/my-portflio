@@ -28,26 +28,8 @@ section{
 .half-width img{
     width: 80%;
 }
-#link-btn{
-    text-decoration:none ;
-    background-color: tomato;
-    padding: 10px 30px;
-    color: rgb(59, 11, 59);
-    border-radius: 6px;
-    font-weight: 800;
-    box-shadow:2px 1px 14px violet;
-}
-#link-btn1{
-    text-decoration:none ;
-    background-color: peru;
-    padding: 9px 28px;
-    color: rgb(59, 11, 59);
-    border-radius: 6px;
-    font-weight: 800;
-    box-shadow: 2px 2px 10px rgb(64, 171, 197);
 
-}
-#link-btn2{
+#link-btn{
     text-decoration:none ;
     background-color: rgb(8, 107, 124);
     padding: 10px 35px;
