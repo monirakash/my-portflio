@@ -10,8 +10,13 @@ strong{
 .header{
     border-left: 4px solid rgb(177, 64, 64) ;
     border-radius: 2px;
-}
 
+}
+#side-line{
+    border-left: 5px solid tomato;
+    border-radius: 2px;
+    
+}
 section{
     display: flex;
 }
@@ -31,9 +36,34 @@ section{
     color: rgb(59, 11, 59);
     border-radius: 6px;
     font-weight: 800;
+    box-shadow:2px 1px 14px violet;
 }
+#link-btn1{
+    text-decoration:none ;
+    background-color: peru;
+    padding: 9px 28px;
+    color: rgb(59, 11, 59);
+    border-radius: 6px;
+    font-weight: 800;
+    box-shadow: 2px 2px 10px rgb(64, 171, 197);
+
+}
+#link-btn2{
+    text-decoration:none ;
+    background-color: rgb(8, 107, 124);
+    padding: 10px 35px;
+    color: rgb(110, 15, 9);
+    border-radius: 6px;
+    font-weight: 900;
+    box-shadow: 2px 1px 12px rgb(94, 92, 92);
+
+}
+
+
+
 span{
     color: orangered;
+    font-size:50px;
 }
 #my-mission{
     text-align: center;
@@ -65,7 +95,7 @@ span{
     box-shadow:10px 10px 16px rgb(163, 163, 130);
     width:30%;
     margin-left: 2.5%;
-    margin-right: 2.5%;
+    margin-right: 3.5%;
     padding-left: 10px;
     background-color: rgb(96, 131, 103);
     height: 490px;
@@ -82,4 +112,7 @@ span{
 }
 .ex-item2 img{
     border-radius:10px;
+}
+#lastpic{
+    border-radius: 15px;
 }
