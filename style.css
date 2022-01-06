@@ -1,0 +1,13 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+strong{
+    color: brown;
+}
+.header{
+    border-left: 4px solid rgb(177, 64, 64) ;
+    border-radius: 2px;
+}
